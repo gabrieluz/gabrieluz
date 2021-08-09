@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=gabrieluz&show_icons=true&count_private=true&theme=dark" width="350">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieluz&show_icons=true&count_private=true&theme=dark" width="350">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrieluz&show_icons=true&count_private=true&theme=dark" width="350">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieluz&show_icons=true&count_private=true&theme=dark" width="350">
 
 <!--
 **gabrieluz/gabrieluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
