@@ -3,7 +3,7 @@
 Graduated in ADS and technology lover
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieluz&show_icons=true&count_private=true&theme=dark" width="200" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieluz&show_icons=true&count_private=true&theme=dark" width="350" height="350">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieluz&show_icons=true&count_private=true&theme=dark" width="350">
 </div>
 
