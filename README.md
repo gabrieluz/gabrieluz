@@ -6,6 +6,8 @@
 - Technology lover 🤖
 - Reader 🍂
 
+![alt](https://c.tenor.com/g9I23ev4eGgAAAAC/emmy-amy-poehler.gif)
+
 ---
 
 # Stack's
